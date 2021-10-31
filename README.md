@@ -1,4 +1,4 @@
-# espanso-package-example
-An example on how to create an espanso package.
+# espanso-package-supersubscripts
+An espanso package for superscripts and subscripts.
 
-For more information, read the [documentation](https://espanso.org/docs/)
+Ref: [documentation](https://espanso.org/docs/)
