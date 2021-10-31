@@ -1,9 +1,9 @@
 ---
-package_name: "simple-package"
-package_title: "Simple Package"
-package_desc: "A simple package to say Hello World."
+package_name: "espanso-package-supersubscripts"
+package_title: "Superscripts and subscripts"
+package_desc: "An espanso package for superscripts and subscripts."
 package_version: "0.1.0"
-package_author: "Federico Terzi"
-package_repo: "https://github.com/federico-terzi/espanso-package-example"
+package_author: "Meggyn Watkins"
+package_repo: "https://github.com/meggynw/espanso-package-supersubscript"
 ---
-A simple package to say "Hello World"
+An espanso package for superscripts and subscripts.
