@@ -1,5 +1,5 @@
 ---
-package_name: "supersubscripts"
+package_name: "supersubscript"
 package_title: "Superscripts and subscripts"
 package_desc: "An espanso package for superscripts and subscripts."
 package_version: "0.1.0"
