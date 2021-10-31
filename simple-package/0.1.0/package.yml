@@ -58,7 +58,7 @@ matches:
   - trigger: ":hiAE:"
     replace: "ᴭ"
 
-  - trigger: ":hiB:
+  - trigger: ":hiB:"
     replace: "ᴮ"
 
   - trigger: ":hiD:"
@@ -97,7 +97,7 @@ matches:
   - trigger: ":hi_reverseN:"
     replace: "ᴻ"
 
-  - trigger: ":hiO:
+  - trigger: ":hiO:"
     replace: "ᴼ"
 
   - trigger: ":hiOu:"
